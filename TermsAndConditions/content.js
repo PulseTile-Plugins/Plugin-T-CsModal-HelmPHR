@@ -121,7 +121,7 @@ const Content = () => {
         <li className="c3 c10"><span className="c5">use any unauthorised means to modify or reroute, or attempt to modify or reroute, Helm services;&nbsp;</span></li>
       </ul>
       <ul className="c7 lst-kix_list_3-0 start">
-        <li className="c3 c10"><span className="c5">damage, disable, overburden, or impair Helm services (or the network(s) supporting or connected to Helm services) or interfere with anyone\\'s use and enjoyment of Helm services ; or &nbsp; </span></li>
+        <li className="c3 c10"><span className="c5">damage, disable, overburden, or impair Helm services (or the network(s) supporting or connected to Helm services) or interfere with anyone use and enjoyment of Helm services ; or &nbsp; </span></li>
         <li className="c3 c10"><span className="c5">re-sell or redistribute Helm services, or any part of Helm services.</span></li>
         <li className="c3 c10"><span className="c5">Access or attempt to access the Helm account of any other person, or any information about any other person which is held by any of our health and care partners.<br /></span></li>
       </ul>
