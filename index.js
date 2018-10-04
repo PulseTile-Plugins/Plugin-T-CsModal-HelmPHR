@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import ConfirmationModal from '../../ui-elements/ConfirmationModal/ConfirmationModal';
+import ConfirmationModal from '../../../../ui-elements/ConfirmationModal/ConfirmationModal';
 import Content from './content';
 
 export default class TermsAndConditions extends Component {
